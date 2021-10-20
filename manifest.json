@@ -1,0 +1,38 @@
+{
+  "name": "WORD HUNT",
+  "short_name": "WORD HUNT",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "maskable.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x148"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x194"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384x296"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x395"
+    }
+  ]
+  
+}
